@@ -1,0 +1,1 @@
+p File.readlines("data/toc.txt").size
